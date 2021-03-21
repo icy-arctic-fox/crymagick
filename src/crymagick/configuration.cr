@@ -1,5 +1,3 @@
-require "logger"
-
 module CryMagick
   module Configuration
     # [logger, Logger?, nil]
